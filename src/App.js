@@ -6,7 +6,7 @@ import About from './pages/About';
 import Me from './pages/me';
 import Project from './pages/project';
 import axios from 'axios';
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 
 function App() {
