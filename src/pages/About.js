@@ -32,7 +32,7 @@ function About() {
               </tr>
               <tr>
                 <td className="Emoji">
-                  <img src="./imgs/git.png"></img>
+                  <img src="./imgs/git.png" alt="git"></img>
                 </td>
                 <td>
                   <a href="https://github.com/minseo1209">
