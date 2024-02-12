@@ -1,5 +1,56 @@
+@font-face {
+  font-family: 'SUIT-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_suit@1.0/SUIT-Regular.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+a {
+  text-decoration-line: none !important;
+}
+h5 {
+  padding: 10px 0px;
+}
+.picture {
+  height: 150px;
+}
+.Table {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.Table tbody tr,
+.Table thead th,
+.Table tbody td {
+  vertical-align: middle;
+  text-align: center;
+}
+.About {
+  text-align: left;
+}
+.me {
+  margin-top: 1em;
+}
+.Title {
+  margin: 0;
+  display: inline;
+  padding-inline: 5px 10px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50%, #42a5f5 50%);
+}
+.Emoji {
+  padding-right: 15px;
+}
+.row {
+  padding-top: 10em;
+  margin-bottom: 20px;
+}
+.record {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
 .App {
   text-align: center;
+  font-family: 'SUIT-Regular';
+  margin-bottom: 2rem;
 }
 
 .App-logo {
