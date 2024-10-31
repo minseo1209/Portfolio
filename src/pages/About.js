@@ -16,7 +16,7 @@ function About() {
               </tr>
               <tr>
                 <td className="Emoji">🎂</td>
-                <td>1997년 12월 09일 (여)</td>
+                <td>1998년 12월 09일 (여)</td>
               </tr>
               <tr>
                 <td className="Emoji">🎓</td>
