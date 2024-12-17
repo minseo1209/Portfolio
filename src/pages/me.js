@@ -46,7 +46,7 @@ function Me() {
       </p>
 
       <div className="w-full text-center text-slate-800 text-sm mt-8">
-        작성일: 2024년 03월 03일
+        작성일: 2024년 12월 17일
       </div>
       <div className="w-full text-center text-slate-800 text-sm mt-8">
         작성자: 김민서
